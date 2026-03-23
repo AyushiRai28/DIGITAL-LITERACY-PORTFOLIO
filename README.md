@@ -45,7 +45,7 @@ digital-literacy-project/
 ├── task-3-platforms/
 │   ├── googled docss.png          ← screenshot
 │   └── excel.png         ←  screenshot
-│
+│   └── googleform.png       ←  screenshot of googlr forms
 ├── task-4-email-etiquette/
 │   ├── email-drafts.txt         ← Two professional email drafts
 │   └── social-media-etiquettes.md ← Social Media Do's & Don'ts
@@ -76,6 +76,11 @@ Researched **UPI / Online Payment Fraud**, wrote a detailed case study with a st
 
 
 ---
+## 🔗 Google Form — Digital Literacy Quiz
+
+> 📝 **Quiz Link:** [[Click here to take the quiz](https://forms.gle/3uWknvBBwzPvAzLQ7)](#)
+
+---
 
 
 ## ✅ Task Completion Status
@@ -85,6 +90,7 @@ Researched **UPI / Online Payment Fraud**, wrote a detailed case study with a st
 | Digital Literacy Infographic | Module 1 | ✅ Done |
 | GitHub Portfolio Setup | Module 2 | ✅ Done |
 | Google DOCS  | Module 3 | ✅ Done |
+| Google form | Module 3 | ✅ Done |
 | Professional Email Drafts | Module 4 | ✅ Done |
 | Social Media Checklist | Module 4 | ✅ Done |
 | Cybercrime Case Study | Module 5 | ✅ Done |

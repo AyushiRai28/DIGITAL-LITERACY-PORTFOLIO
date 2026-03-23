@@ -41,14 +41,14 @@ digital-literacy-project/
 ├── task-2-portfolio/
 │   └── github-profile.png       ← Screenshot of GitHub profile
 │   L linkedin.png               ← Screenshot of Linkedin profile
+|
 ├── task-3-platforms/
-│   ├── hackerrank-badge.png     ← HackerRank challenge screenshot
-│   ├── google-form.png          ← Digital Literacy Quiz (Google Form screenshot)
-│   └── google-sheet.png         ← Linked response sheet screenshot
+│   ├── googled docss.png          ← screenshot
+│   └── excel.png         ←  screenshot
 │
 ├── task-4-email-etiquette/
 │   ├── email-drafts.txt         ← Two professional email drafts
-│   └── social-media-checklist.md ← Social Media Do's & Don'ts
+│   └── social-media-etiquettes.md ← Social Media Do's & Don'ts
 │
 └── task-5-cybercrime/
     ├── casestudy.md             ← UPI / Online Payment Fraud case study
@@ -84,8 +84,7 @@ Researched **UPI / Online Payment Fraud**, wrote a detailed case study with a st
 |------|--------|--------|
 | Digital Literacy Infographic | Module 1 | ✅ Done |
 | GitHub Portfolio Setup | Module 2 | ✅ Done |
-| HackerRank Challenge | Module 3 | ✅ Done |
-| Google Forms Quiz | Module 3 | ✅ Done |
+| Google DOCS  | Module 3 | ✅ Done |
 | Professional Email Drafts | Module 4 | ✅ Done |
 | Social Media Checklist | Module 4 | ✅ Done |
 | Cybercrime Case Study | Module 5 | ✅ Done |
